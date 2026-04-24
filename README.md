@@ -8,7 +8,7 @@
 
 **Computer Science Student | Cybersecurity Enthusiast | AWS Certified**
 
-Philadelphia, PA | (267) 760-2368 | [jgarciaalmanzar@arcadia.edu](mailto:jgarciaalmanzar@arcadia.edu)
+Philadelphia, PA | [jgarciaalmanzar@arcadia.edu](mailto:jgarciaalmanzar@arcadia.edu)
 
 ## About Me
 
@@ -35,7 +35,7 @@ Motivated and detail-oriented Computer Science student passionate about software
 Glenside, PA | Anticipated Graduation: June 2026
 
 **Mariana Bracetti Academy Charter School**  
-Philadelphia, PA | Graduated June 2021 | GPA: 3.54
+Philadelphia, PA | Graduated June 2021 
 
 ## Featured Projects
 
@@ -77,8 +77,8 @@ Philadelphia, PA | June 2018 – Present
 ## Achievements & Certifications
 
 ✅ **AWS Certification Completed**  
-✅ **Honor Student** (Grades 9–12)  
-✅ **Perfect Attendance** (Grades 9–12)
+✅ **Honor Student**  
+✅ **Perfect Attendance** 
 
 <p align="center">
 	<a href="mailto:jgarciaalmanzar@arcadia.edu">
@@ -94,7 +94,7 @@ I'm actively seeking internship and job opportunities in Computer Science-relate
 - **GitHub:** [jefferzyn](https://github.com/jefferzyn)
 - **LinkedIn:** [Jefferson Garcia Almanzar](https://www.linkedin.com/in/jefferson-garcia-almanzar-11404b322/)
 - **Portfolio:** [jefferzyn.org](https://jefferzyn.org)
-- **Phone:** (267) 760-2368
+
 
 Whether you have internship opportunities, project collaboration ideas, or just want to discuss software development and cybersecurity, I'd love to hear from you!
 
