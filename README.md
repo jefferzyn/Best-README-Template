@@ -82,8 +82,8 @@ Designed and tested Python-based malware in a controlled environment to study da
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jefferzyn/Best-README-Template/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/jefferzyn/Best-README-Template/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jefferzyn/jefferzyn/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/jefferzyn/jefferzyn/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
   </picture>
 </p>
 
