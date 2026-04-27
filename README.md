@@ -82,7 +82,7 @@ Philadelphia, PA | June 2018 – Present
 
 ## Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/jefferzyn/Best-README-Template/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/jefferzyn/jefferzyn/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 	<a href="mailto:jgarciaalmanzar@arcadia.edu">
