@@ -80,6 +80,10 @@ Philadelphia, PA | June 2018 – Present
 ✅ **Honor Student**  
 ✅ **Perfect Attendance** 
 
+## Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/jefferzyn/Best-README-Template/output/github-contribution-grid-snake.svg)
+
 <p align="center">
 	<a href="mailto:jgarciaalmanzar@arcadia.edu">
 		<img src="https://img.shields.io/badge/Open%20to%20internships%20%26%20collaboration-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white" alt="Open to internships and collaboration" />
@@ -97,4 +101,3 @@ I'm actively seeking internship and job opportunities in Computer Science-relate
 
 
 Whether you have internship opportunities, project collaboration ideas, or just want to discuss software development and cybersecurity, I'd love to hear from you!
-
